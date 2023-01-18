@@ -1,0 +1,89 @@
+html {
+    height: 100%;
+    background: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+}
+
+
+
+div {
+    height: 200px;
+    width: 500px;
+    background: rgba(35, 28, 45, 0.899);
+
+
+    border-radius: 20px;
+    margin-top: 150px;
+    /* box-shadow: black 2px 2px 15px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 200px;
+  }
+
+.onvan {
+    text-align: center;
+    padding-top: 15px;
+    font-size: x-large;
+    color: azure;
+    font-family :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva , Verdana, sans-serif
+
+}
+
+.form1 {
+    margin-left: 20px;
+    width: 100%;
+    border-radius: 60%
+
+}
+
+.billtotal{
+    padding-top: 15px;
+    font-size: large;
+    margin-left: 20px;
+    width: 450px; 
+    height: 12px;
+    font-family :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva , Verdana, sans-serif
+    /* border-radius: 30% */
+    
+}
+.Tip{
+    padding-top: 15px;
+    font-size: large;
+    color: black;
+    margin-left: 20px;
+    margin-left: 20px;
+    width: 450px; 
+    height: 12px;
+     
+}
+
+.TIP{
+    padding-left: 30px;
+    font-size: large;
+    color: azure;
+    font-family :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva , Verdana, sans-serif
+}
+.BillTotal{
+    padding-left: 30px;
+    font-size: large;
+    color: azure;
+    font-family :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva , Verdana, sans-serif
+
+}
+.matn{
+    font-size: large;
+    color: azure;
+    padding-bottom: 300px;
+    font-family :  "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva , Verdana, sans-serif
+
+}
+
+.but1{
+    width: 20px;
+    height: 30px;
+    color:azure
+}
